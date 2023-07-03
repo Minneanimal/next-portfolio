@@ -22,5 +22,10 @@ async function getData() {
 
 export default async function GisPage() {
 	const mapStyle = await getData();
-	return <BaseMap mapStyle={mapStyle} />;
+	return (
+		/*searchbar */
+		/*layer selector*/
+		/* info bar */
+		<BaseMap mapStyle={mapStyle} />
+	);
 }
