@@ -1,4 +1,4 @@
-import BaseMap from "@/components/baseMap";
+import BaseMap from "@/components/gis/baseMap";
 
 async function getData() {
 	const basemapEnum = "ArcGIS:Streets";

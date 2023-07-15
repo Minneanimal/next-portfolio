@@ -15,7 +15,7 @@ const user = {
 const navigation = [
 	{ name: "Home", href: "/home" },
 	{ name: "GIS", href: "/gis" },
-	{ name: "AI", href: "#" },
+	{ name: "AI", href: "/ai" },
 	{ name: "Blog", href: "#" },
 	{ name: "Contact", href: "/contact" },
 ];
