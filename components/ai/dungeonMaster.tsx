@@ -12,7 +12,6 @@ export default function DungeonMaster() {
 				height={300}
 			/>
 			<p className="text-center text-2xl font-bold">Dungeon Master</p>
-			<DungeonText />
 			<DungeonInput />
 		</div>
 	);
